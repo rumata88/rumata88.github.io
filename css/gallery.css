@@ -182,7 +182,14 @@ a{
 
 
 }
+
+.footer{
+
+  background-color: #EEE4E1;
+
+}
+
 .footer{
   font-size: 15px;
-  padding: 10px;
+  padding-left: 15px;
 }
